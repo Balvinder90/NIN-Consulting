@@ -695,6 +695,11 @@ a {
   h2 {
     text-align: center; }
 
+  .landing__information-heading {
+    text-align: center; }
+  .landing__cta {
+    justify-self: center; }
+
   .about__information {
     justify-items: center; }
     .about__information-text {
