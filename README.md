@@ -3,8 +3,9 @@ A single page website for a marketing consulting firm.
 
 1. BEM Convention used
 2. Vanilla CSS
-3. REM Units
-4. Fully responsive
-5. CSS Transition and Animations
-6. Single Page
-7. Jquery for Mobile Navigation
+3. SASS
+4. REM Units
+5. Fully responsive
+6. CSS Transition and Animations
+7. Single Page
+8. jQuery for Mobile Navigation
