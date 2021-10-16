@@ -1018,6 +1018,18 @@ a {
     text-align: center;
   }
 
+  .landing {
+    &__information {
+      &-heading {
+        text-align: center;
+      }
+    }
+
+    &__cta {
+      justify-self: center;
+    }
+  }
+
   .about {
     &__information {
       justify-items: center;
