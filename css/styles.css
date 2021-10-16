@@ -695,6 +695,21 @@ a {
   h2 {
     text-align: center; }
 
+  .landing__list {
+    display: none;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 0;
+    border-top: solid 0.1rem rgba(255, 255, 255, 0.2);
+    transform: translateY(2.5rem); }
+    .landing__list-item:first-child {
+      margin-top: 1rem; }
+    .landing__list-item:last-child {
+      margin-bottom: 1rem; }
+    .landing__list-item-link {
+      padding: 1rem 0;
+      text-align: center; }
   .landing__information-heading {
     text-align: center; }
   .landing__cta {
