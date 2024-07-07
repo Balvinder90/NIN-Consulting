@@ -1,6 +1,8 @@
 # NIN-Consulting
 A single page website for a marketing consulting firm.
 
+## https://balvindersinghportfolio.netlify.app/sites/nin/
+
 1. BEM Convention used
 2. Vanilla CSS
 3. SASS
